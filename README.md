@@ -24,7 +24,7 @@ The analysis involves the following steps:
 
 **Feature Importance: Ranking the importance of different features used in the machine learning model to understand which factors most influence stock price predictions.**
 
-**Bokeh: Using Bokeh to illusrate MAANG and Microsoft stock since inception to Jan 30 2025**
+**Bokeh: Using Bokeh to illusrate Meta, Apple, Amazon, Netflix, and Google (MAANG) and Microsoft stock since inception to Jan 30 2025**
 
 
 **datasets used**
