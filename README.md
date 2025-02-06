@@ -1,4 +1,4 @@
-# **Singapore Polytechnic Specialist Diploma in data science and artificial intelligence (stock prices analysis)**
+# **Singapore Polytechnic Specialist Diploma in data science and artificial intelligence (Stock Prices Analysis)**
 **Please refer to the jupyter notebook for more details**
 
 ## **Summary of Assignment Requirements:**
