@@ -12,10 +12,10 @@ Use Matplotlib to create at least four types of graphs (bar chart, line chart, p
 ## **PowerPoint Presentation:**
 Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained.
 
-##**Project Description**
+## **Project Description**
 This project aims to provide a data-driven approach to understanding and predicting stock market trends, specifically focusing on the S&P 500 index. The goal is to help individuals, particularly those new to investing, make informed decisions by leveraging historical stock data and machine learning techniques. The project is designed to educate users about the S&P 500, its growth trends, the sectors involved, and potential individual stocks to invest in. Additionally, it explores the use of machine learning models (XGBoost) to predict stock prices, highlighting both the potential and limitations of such models.
 
-##**Data Analysis**
+## **Data Analysis**
 The analysis involves the following steps:
 
 **1. Exploratory Data Analysis (EDA): Understanding the overall growth trend of the S&P 500, identifying key sectors, and analyzing market capitalization.**
