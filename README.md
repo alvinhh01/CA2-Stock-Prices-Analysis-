@@ -26,7 +26,10 @@ The analysis involves the following steps:
 
 **Bokeh: Using Bokeh to illusrate Meta, Apple, Amazon, Netflix, and Google (MAANG) and Microsoft stock since inception to Jan 30 2025**
 
+
+
 **background**
+
 ![image](https://github.com/user-attachments/assets/90c20bc3-26c9-43a4-bfc8-60d109079840)
 
 
@@ -36,57 +39,68 @@ The analysis involves the following steps:
 
 
 
-
-
 **data dictionary**
-![image](https://github.com/user-attachments/assets/7807adde-a7a1-4cb1-86c8-11a7ff58cbaf)
+![image](https://github.com/user-attachments/assets/87440073-0727-4ef1-8957-6a856b963112)
 
 
 
 
 **Research questions**
+![image](https://github.com/user-attachments/assets/581e59af-508a-4552-aee5-ea295384c737)
 
 
 
 
 
-**Chart 1 -line chart showing number of residental buildings built since 1937 (dataset 1)**
-
-
-
-
-
-**Chart 2 - boxplot showing monthly rent by town (dataset 2)**
-
-
-
-
-
-**Chart 3 - stacked bar chart distribution of flat types across Singapore(dataset 2)**
-
-
-
-
-
-**Dataset 3 data transformation**
-
-
-
-
-
-**Chart 4 - histogram for storey ranges - justification as to why I did not include storey range in the regression model (dataset 3)**
-
-
-
-
-
-**Chart 5 - bar chart linear regression coefficients (dataset 3)**
+**Chart 1 -Line chart showing yearly growth of S&P 500 since 1990 to 2025 (dataset 2)**
+![image](https://github.com/user-attachments/assets/8f1c2720-da8a-4f95-aad9-f7b3640323a5)
 
 
 
 
 
 
-**Chart 6 - bar chart regression model prediction and mean absolute error (dataset 3)**
+**Chart 2 - Bar chart to show yearly percentage change of S&P 500 since 1990 to 2025 (dataset 2)**
+![image](https://github.com/user-attachments/assets/02dec0f8-8361-451b-bf3c-5a0e8ed06fd1)
 
+
+
+
+
+**Chart 3 - Pie Chart showing S&P different sectors (dataset 3)**
+![image](https://github.com/user-attachments/assets/d86d44ee-62d7-4847-bd13-203388663c70)
+
+
+
+
+**Chart 4 - Bar Chart showing  S&P 500 market cap based on sectors (Dataset 3)**
+![image](https://github.com/user-attachments/assets/7d7118af-c80f-40b1-9255-b1cdb79d1432)
+
+
+
+
+**data transformation - machine learning (XGBoost) and time series analysis (Dataset 3 and 4)**
+![image](https://github.com/user-attachments/assets/c2c85122-cc98-43f4-8297-55578ad205c4)
+
+
+
+
+**Chart 5 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025**
+![image](https://github.com/user-attachments/assets/12d6557b-3e79-4058-9847-abdbbd01e12d)
+
+
+
+
+**Chart 6 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025 (splitting data into training and test data)**
+![image](https://github.com/user-attachments/assets/f4b9454c-aa68-4a96-8974-79f15230fe00)
+
+
+**Chart 7 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025 (Actual stock price vs. XGBoost prediction)**
+![image](https://github.com/user-attachments/assets/8f60fe19-5689-4988-bad0-e7f42d6df2e4)
+
+**Chart 8 - XGboost Feature importance ranking**
+![image](https://github.com/user-attachments/assets/89c7965a-edc3-4a36-bfdf-7b42b892337d)
+
+**Conclusion**
+![image](https://github.com/user-attachments/assets/cfba28dc-b99d-44c8-a852-6e2947c07df4)
 
