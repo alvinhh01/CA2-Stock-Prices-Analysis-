@@ -9,8 +9,6 @@ You need to use at least 3 datasets from any data source - kaggle, data.gov.sg e
 **Use pandas** to extract useful statistical information from the datasets.
 Use Matplotlib to create at least four types of graphs (bar chart, line chart, pie chart, histogram, scatterplot, boxplot, etc.).
 
-## **PowerPoint Presentation:**
-Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained.
 
 ## **Project Description**
 This project aims to provide a data-driven approach to understanding and predicting stock market trends, specifically focusing on the S&P 500 index. The goal is to help individuals, particularly those new to investing, make informed decisions by leveraging historical stock data and machine learning techniques. The project is designed to educate users about the S&P 500, its growth trends, the sectors involved, and potential individual stocks to invest in. Additionally, it explores the use of machine learning models (XGBoost) to predict stock prices, highlighting both the potential and limitations of such models.
@@ -27,6 +25,8 @@ The analysis involves the following steps:
 **Bokeh: Using Bokeh to illusrate Meta, Apple, Amazon, Netflix, and Google (MAANG) and Microsoft stock since inception to Jan 30 2025**
 
 
+## **PowerPoint Presentation:**
+Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained.
 
 **background**
 
