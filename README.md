@@ -26,15 +26,20 @@ The analysis involves the following steps:
 
 **Bokeh: Using Bokeh to illusrate Meta, Apple, Amazon, Netflix, and Google (MAANG) and Microsoft stock since inception to Jan 30 2025**
 
+**background**
+![image](https://github.com/user-attachments/assets/90c20bc3-26c9-43a4-bfc8-60d109079840)
+
+
 
 **datasets used**
+![image](https://github.com/user-attachments/assets/158c17c5-32bd-4c26-8464-3f4a061eaa60)
 
 
 
 
 
 **data dictionary**
-
+![image](https://github.com/user-attachments/assets/7807adde-a7a1-4cb1-86c8-11a7ff58cbaf)
 
 
 
