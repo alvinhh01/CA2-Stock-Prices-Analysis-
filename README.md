@@ -41,7 +41,8 @@ The analysis involves the following steps:
 
 
 **data dictionary**
-![image](https://github.com/user-attachments/assets/87440073-0727-4ef1-8957-6a856b963112)
+![image](https://github.com/user-attachments/assets/bcc0964a-fe5b-4f6c-8343-f1e90ec548cd)
+
 
 
 
@@ -81,7 +82,8 @@ The analysis involves the following steps:
 
 
 **data transformation - machine learning (XGBoost) and time series analysis (Dataset 3 and 4)**
-![image](https://github.com/user-attachments/assets/c2c85122-cc98-43f4-8297-55578ad205c4)
+![image](https://github.com/user-attachments/assets/9800bf0f-ab80-4e68-b86d-2ed890afb2d5)
+
 
 
 
