@@ -36,7 +36,8 @@ Include a cover page, a slide with dataset URLs, slides explaining each dataset,
 
 
 **datasets used**
-![image](https://github.com/user-attachments/assets/278ef2e9-1d5e-408f-a4ec-e9000dafeadb)
+![image](https://github.com/user-attachments/assets/41554cc4-706a-4f1a-ad0f-4443fc0606a3)
+
 
 
 
@@ -45,7 +46,7 @@ Include a cover page, a slide with dataset URLs, slides explaining each dataset,
 
 
 **data dictionary**
-![image](https://github.com/user-attachments/assets/f2ef6232-20ad-48bb-b901-256abefcfbfe)
+![image](https://github.com/user-attachments/assets/a5510ddc-b420-4c71-8887-d97d140dd5d7)
 
 
 
