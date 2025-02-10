@@ -43,7 +43,8 @@ Include a cover page, a slide with dataset URLs, slides explaining each dataset,
 
 
 **data dictionary**
-![image](https://github.com/user-attachments/assets/bcc0964a-fe5b-4f6c-8343-f1e90ec548cd)
+![image](https://github.com/user-attachments/assets/801ebbe8-80d4-4831-8b45-99133267711d)
+
 
 
 
