@@ -85,7 +85,8 @@ Include a cover page, a slide with dataset URLs, slides explaining each dataset,
 **Chart 4 - Bar Chart showing  S&P 500 market cap based on sectors (Dataset 3)**
 ![image](https://github.com/user-attachments/assets/7d7118af-c80f-40b1-9255-b1cdb79d1432)
 
-
+**Chart 5 - Bokeh Line Chart showing  Technology stocks (Dataset 3)**
+![image](https://github.com/user-attachments/assets/d6d678d8-ed8b-41b7-8421-dc8fa66f66d3)
 
 
 **data transformation - machine learning (XGBoost) and time series analysis (Dataset 3 and 4)**
@@ -95,20 +96,20 @@ Include a cover page, a slide with dataset URLs, slides explaining each dataset,
 
 
 
-**Chart 5 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025**
+**Chart 6 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025**
 ![image](https://github.com/user-attachments/assets/12d6557b-3e79-4058-9847-abdbbd01e12d)
 
 
 
 
-**Chart 6 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025 (splitting data into training and test data)**
+**Chart 7 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025 (splitting data into training and test data)**
 ![image](https://github.com/user-attachments/assets/f4b9454c-aa68-4a96-8974-79f15230fe00)
 
 
-**Chart 7 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025 (Actual stock price vs. XGBoost prediction)**
+**Chart 8 - Line chart S&P 500 from Jan 1st 1990 to Jan 31st 2025 (Actual stock price vs. XGBoost prediction)**
 ![image](https://github.com/user-attachments/assets/8f60fe19-5689-4988-bad0-e7f42d6df2e4)
 
-**Chart 8 - XGboost Feature importance ranking**
+**Chart 9 - XGboost Feature importance ranking**
 ![image](https://github.com/user-attachments/assets/89c7965a-edc3-4a36-bfdf-7b42b892337d)
 
 **Conclusion**
